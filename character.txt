@@ -1,4 +1,0 @@
-characters 4
-final character
-
-hello friend
